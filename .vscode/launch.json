@@ -1,0 +1,78 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+    
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Deletestudent",
+            "request": "launch",
+            "mainClass": "Deletestudent",
+            "projectName": "JDBC_f1c8112c"
+        },
+        {
+            "type": "java",
+            "name": "FetchStudentData",
+            "request": "launch",
+            "mainClass": "FetchStudentData",
+            "projectName": "JDBC_f1c8112c"
+        },
+        {
+            "type": "java",
+            "name": "InsertAndRetrieveStudent",
+            "request": "launch",
+            "mainClass": "InsertAndRetrieveStudent",
+            "projectName": "JDBC_f1c8112c"
+        },
+        {
+            "type": "java",
+            "name": "InsertAndRetrieveStudents",
+            "request": "launch",
+            "mainClass": "InsertAndRetrieveStudents",
+            "projectName": "JDBC_f1c8112c"
+        },
+        {
+            "type": "java",
+            "name": "Insertstudent",
+            "request": "launch",
+            "mainClass": "Insertstudent",
+            "projectName": "JDBC_f1c8112c"
+        },
+        {
+            "type": "java",
+            "name": "ShowStudentTable",
+            "request": "launch",
+            "mainClass": "ShowStudentTable",
+            "projectName": "JDBC_f1c8112c"
+        },
+        {
+            "type": "java",
+            "name": "Updatestudent",
+            "request": "launch",
+            "mainClass": "Updatestudent",
+            "projectName": "JDBC_f1c8112c"
+        },
+        {
+            "type": "java",
+            "name": "insertdata",
+            "request": "launch",
+            "mainClass": "insertdata",
+            "projectName": "JDBC_f1c8112c"
+        },
+        {
+            "type": "java",
+            "name": "selectQuery",
+            "request": "launch",
+            "mainClass": "selectQuery",
+            "projectName": "JDBC_f1c8112c"
+        }
+    ]
+}
